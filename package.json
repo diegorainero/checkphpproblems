@@ -1,0 +1,19 @@
+{
+  "name": "crawler-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler-site.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "minimist": "^1.2.8",
+    "puppeteer": "^22.11.1"
+  }
+}
